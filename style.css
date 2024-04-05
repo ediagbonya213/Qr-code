@@ -14,17 +14,16 @@ body{
     height: 450px;
     margin-top: 10%;
     margin-left: 40%;
-    border-radius: 10%;
+    border-radius: 8%;
 }
 
 .pics{
     box-sizing: border-box;
     margin-top: 4%;
-    margin-left: 4%;
-    margin-right: 4%;
+    margin-left: 5%;
     width: 270px;
     height: 270px;
-    border-radius: 10%;
+    border-radius: 8%;
 }
 h2{
   font-family: "Outfit", sans-serif;
