@@ -3,9 +3,11 @@ body{
     background-color: hsl(220, 15%, 55%);
 }
 
-card{
+box{
     background-color: hsl(0, 0%, 100%);
     border-radius: 10%;
+    width: 300px;
+    margin: auto;
 }
 
 card h2{
