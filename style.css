@@ -12,9 +12,8 @@ body{
     background-color: hsl(0, 0%, 100%);
     width: 300px;
     height: 450px;
-    margin-top: 10%;
-    margin-left: 40%;
     border-radius: 8%;
+    margin: 7.5% 40%;
 }
 
 .pics{
@@ -47,3 +46,8 @@ p{
   text-align: center; 
 }
 
+@media screen and (min-width:375px) and (max-width:1440px){
+ .container{
+    margin: 30% 12%;
+ }
+}
